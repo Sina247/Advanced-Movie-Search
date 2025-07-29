@@ -1,4 +1,4 @@
-# 🎬 Advanced Movie Search
+# 🎬 Movie Search
 
 An advanced, user-friendly movie search app built with **HTML**, **Tailwind CSS** and **JavaScript**. It uses the **OMDB API** to provide fast, accurate results with filters for movie type, release year, genre, and IMDb ratings. Perfect for movie enthusiasts looking for detailed and refined search capabilities.
 
